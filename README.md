@@ -5,7 +5,7 @@ This project showcases SQL querying and Python visualization skills using grocer
 The analysis includes top products, buying patterns, reorder behavior, and order timing. 
 It demonstrates complex SQL queries, data aggregation, joins, and Python plotting.
 
-![Top Products](visualizations/Instacart Schema.png)
+![Top Products](visualizations/Instacart_Schema.png)
 
 ---
 

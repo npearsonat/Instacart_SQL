@@ -1,0 +1,190 @@
+﻿department_1,department_2,ordered_together
+produce,dairy eggs,160
+produce,snacks,99
+produce,beverages,96
+beverages,dairy eggs,90
+dairy eggs,snacks,86
+produce,pantry,82
+frozen,produce,79
+pantry,dairy eggs,77
+bakery,produce,74
+frozen,dairy eggs,68
+bakery,dairy eggs,66
+produce,deli,65
+beverages,snacks,62
+dairy eggs,deli,54
+produce,canned goods,53
+beverages,pantry,52
+produce,dry goods pasta,50
+pantry,snacks,49
+frozen,snacks,49
+produce,meat seafood,48
+canned goods,dairy eggs,46
+bakery,snacks,45
+bakery,beverages,44
+frozen,beverages,42
+meat seafood,dairy eggs,40
+dry goods pasta,dairy eggs,39
+snacks,deli,39
+breakfast,dairy eggs,39
+frozen,pantry,38
+produce,breakfast,37
+bakery,pantry,35
+beverages,deli,33
+frozen,bakery,32
+frozen,deli,32
+canned goods,snacks,31
+pantry,canned goods,31
+breakfast,snacks,29
+beverages,breakfast,29
+produce,personal care,29
+pantry,deli,28
+personal care,dairy eggs,28
+dairy eggs,household,27
+produce,household,27
+beverages,canned goods,27
+meat seafood,snacks,26
+dry goods pasta,snacks,25
+frozen,meat seafood,24
+bakery,deli,24
+frozen,canned goods,24
+beverages,meat seafood,24
+frozen,dry goods pasta,23
+personal care,snacks,22
+canned goods,deli,22
+frozen,breakfast,21
+beverages,dry goods pasta,21
+beverages,household,21
+produce,international,21
+pantry,breakfast,21
+bakery,canned goods,20
+dry goods pasta,pantry,20
+beverages,personal care,20
+meat seafood,canned goods,20
+bakery,meat seafood,19
+pantry,household,18
+meat seafood,pantry,18
+bakery,breakfast,18
+bakery,dry goods pasta,17
+dry goods pasta,canned goods,17
+dry goods pasta,deli,17
+produce,babies,16
+household,snacks,16
+international,dairy eggs,15
+meat seafood,deli,15
+personal care,pantry,14
+meat seafood,breakfast,14
+dairy eggs,babies,14
+frozen,personal care,13
+bakery,personal care,13
+breakfast,canned goods,13
+bakery,household,12
+dry goods pasta,meat seafood,12
+frozen,babies,12
+breakfast,deli,11
+babies,snacks,11
+international,pantry,11
+personal care,deli,11
+international,snacks,11
+bakery,international,10
+canned goods,household,10
+dry goods pasta,breakfast,10
+international,dry goods pasta,10
+beverages,babies,10
+frozen,household,10
+personal care,household,9
+international,beverages,8
+pantry,babies,8
+personal care,canned goods,8
+personal care,meat seafood,8
+dry goods pasta,household,8
+babies,deli,8
+frozen,international,7
+personal care,breakfast,7
+household,deli,7
+produce,pets,6
+dry goods pasta,babies,6
+produce,missing,6
+dairy eggs,missing,5
+meat seafood,household,5
+frozen,pets,5
+meat seafood,babies,5
+bakery,babies,5
+dry goods pasta,personal care,5
+international,deli,5
+international,canned goods,5
+breakfast,household,5
+snacks,missing,5
+alcohol,snacks,4
+international,meat seafood,4
+pets,dairy eggs,4
+household,babies,4
+produce,alcohol,4
+pets,deli,4
+international,breakfast,4
+pets,pantry,4
+beverages,missing,4
+breakfast,babies,4
+pets,snacks,4
+other,dry goods pasta,3
+international,household,3
+personal care,babies,3
+alcohol,beverages,3
+other,dairy eggs,3
+bakery,pets,3
+alcohol,dairy eggs,3
+pets,household,3
+alcohol,household,3
+other,produce,3
+pets,dry goods pasta,3
+bakery,alcohol,3
+frozen,other,3
+other,snacks,3
+pantry,missing,3
+other,pantry,3
+canned goods,babies,2
+other,canned goods,2
+alcohol,pantry,2
+other,bakery,2
+frozen,bulk,2
+frozen,alcohol,2
+pets,canned goods,2
+deli,missing,2
+pets,personal care,2
+dry goods pasta,missing,2
+other,breakfast,2
+produce,bulk,2
+bulk,dairy eggs,2
+other,meat seafood,2
+alcohol,deli,2
+international,missing,2
+frozen,missing,2
+pets,breakfast,2
+beverages,pets,2
+other,beverages,2
+bulk,snacks,2
+alcohol,breakfast,2
+canned goods,missing,1
+international,personal care,1
+babies,missing,1
+international,babies,1
+dry goods pasta,bulk,1
+pets,meat seafood,1
+other,pets,1
+beverages,bulk,1
+other,international,1
+international,pets,1
+bakery,missing,1
+other,deli,1
+alcohol,canned goods,1
+alcohol,international,1
+bulk,personal care,1
+bulk,deli,1
+alcohol,dry goods pasta,1
+bulk,meat seafood,1
+bakery,bulk,1
+other,household,1
+other,babies,1
+breakfast,missing,1
+bulk,breakfast,1
+alcohol,pets,1

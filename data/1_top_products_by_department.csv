@@ -1,0 +1,65 @@
+department,department_id,product_name,product_id,product_count
+alcohol,5,Sauvignon Blanc,2120,26
+alcohol,5,India Pale Ale,41131,22
+alcohol,5,Beer,46088,20
+babies,18,Baby Food Stage 2 Blueberry Pear & Purple Carrot,43875,31
+babies,18,Kids Sensible Foods Broccoli Littles,49215,29
+babies,18,Free & Clear Unscented Baby Wipes,44471,27
+bakery,3,100% Whole Wheat Bread,5077,183
+bakery,3,Organic Bread with 21 Whole Grains,18362,79
+bakery,3,Organic Good Seed Bread,2855,55
+beverages,7,Sparkling Water Grapefruit,44632,241
+beverages,7,Spring Water,19660,188
+beverages,7,Lime Sparkling Water,35221,159
+breakfast,14,Honey Nut Cheerios,41844,80
+breakfast,14,Organic Old Fashioned Rolled Oats,44422,60
+breakfast,14,Raisin Bran Cereal,6187,46
+bulk,10,Dried Mango,5161,41
+bulk,10,Organic Rolled Oats,22260,18
+bulk,10,Organic Black Mission Figs,22827,12
+canned goods,15,Organic Black Beans,27156,116
+canned goods,15,Organic Garbanzo Beans,42768,90
+canned goods,15,No Salt Added Black Beans,28849,86
+dairy eggs,16,Organic Whole Milk,27845,383
+dairy eggs,16,Organic Half & Half,49235,243
+dairy eggs,16,Organic Whole String Cheese,22035,212
+deli,20,Original Hummus,30489,230
+deli,20,Uncured Genoa Salami,27344,133
+deli,20,Organic Extra Firm Tofu,42585,98
+dry goods pasta,9,Marinara Sauce,23375,79
+dry goods pasta,9,Organic Tomato Basil Pasta Sauce,39619,49
+dry goods pasta,9,Basil Pesto,12206,47
+frozen,1,Blueberries,9076,183
+frozen,1,Organic Broccoli Florets,20995,105
+frozen,1,Organic Whole Strawberries,24489,104
+household,17,100% Recycled Paper Towels,8021,76
+household,17,Sustainably Soft Bath Tissue,2086,60
+household,17,Natural Free & Clear Dish Liquid,13838,33
+international,6,Organic Sea Salt Roasted Seaweed Snacks,36724,37
+international,6,Taco Seasoning,2450,32
+international,6,Sriracha Hot Chili Sauce,22275,15
+meat seafood,12,Boneless Skinless Chicken Breasts,25890,162
+meat seafood,12,Ground Turkey Breast,38293,78
+meat seafood,12,Boneless Skinless Chicken Breast,6046,70
+missing,21,Organic Riced Cauliflower,41149,16
+missing,21,Organic Celery Bunch,38510,10
+missing,21,Organic Whole Milk Washington Black Cherry Yogurt,38452,8
+other,2,Roasted Almond Butter,38662,10
+other,2,Light CocoWhip! Coconut Whipped Topping,26756,7
+other,2,Coffee Mate French Vanilla Creamer Packets,39461,5
+pantry,13,Extra Virgin Olive Oil,31506,150
+pantry,13,Organic Creamy Peanut Butter,43713,63
+pantry,13,Creamy Almond Butter,30450,62
+personal care,11,Lemon Verbena Hand Soap,27544,17
+personal care,11,Lavender Hand Soap,12312,16
+personal care,11,Premium Epsom Salt,9047,11
+personal care,11,Cotton Swabs,33493,11
+pets,8,Grain Free Turkey & Salmon Formula Cat Food,10863,7
+pets,8,Select Tender Chicken with Vegetables & Brown Rice Dog Food Recipe,35412,7
+pets,8,Grain Free Chicken Formula Cat Food,7076,6
+produce,4,Banana,24852,1482
+produce,4,Bag of Organic Bananas,13176,1206
+produce,4,Organic Strawberries,21137,788
+snacks,19,Lightly Salted Baked Snap Pea Crisps,13870,64
+snacks,19,Organic Tortilla Chips,35561,52
+snacks,19,Almonds & Sea Salt in Dark Chocolate,38164,52
